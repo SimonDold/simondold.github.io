@@ -3,8 +3,8 @@ layout: default
 title: Simon Dold
 ---
 
+![Profile Photo](/img/simondold.jpeg){: style="float: right; width: 180px; margin-left: 20px; border-radius: 50%;"}
 # Simon Dold
-
 **PhD Student**  
 Artificial Intelligence Group  
 University of Basel, Switzerland  
@@ -16,8 +16,19 @@ I am a PhD student in the [Artificial Intelligence research group](https://ai.dm
 I completed my Master's in Computer Science here in 2021.
 My research interests center on **potential heuristics** and **proof logging** in automated planning.
 
-## News
+## Contact  
+Email: simon.dold@unibas.ch  
+[Google Scholar](https://scholar.google.com/citations?user=...)  
+[GitHub](https://github.com/simondold)
 
-| Date       | News |
-|------------|------|
-| May 2021   | Completed my Master's thesis titled *Correlation Complexity and Different Notions of Width*. [PDF](https://ai.dmi.unibas.ch/papers/theses/dold-master-21.pdf) |
+
+
+## Latest News
+
+{% for post in site.posts limit: 3 %}
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<p><small>{{ post.date | date: "%b %d, %Y" }}</small></p>
+<p>{{ post.excerpt }}</p>
+{% endfor %}
+
+[See all news →](/news)

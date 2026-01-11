@@ -14,7 +14,9 @@ permalink: /news/
   </h3>
   <p><small>{{ post.date | date: "%b %d, %Y" }}</small></p>
   <p>
-    {{ post.excerpt | default: post.content | strip_html | truncatewords: 50 }}
+<div class="excerpt">
+  {{ post.excerpt }}   <!-- preserves HTML -->
+</div>
   </p>
   <hr style="margin: 2em 0; border: 0; border-top: 1px solid #eee;">
 {% endfor %}

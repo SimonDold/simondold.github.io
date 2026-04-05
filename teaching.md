@@ -11,8 +11,8 @@ title: Teaching
 ### [{{ post.title }}]({{ post.url }})
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 
-{{ post.excerpt | default: post.content | strip_html | truncate: 300 }}
+{{ post.excerpt | markdownify | truncatewords: 80 }}
 
 {% endfor %}
 
-[View all news →](/news)
+[← Back to Home](/)

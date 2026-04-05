@@ -1,6 +1,20 @@
 theme: jekyll-theme-cayman
 title: Simon Dold
+description: PhD Student in Artificial Intelligence – University of Basel
+
+# Navigation menu
+navbar:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: News
+    url: /news/
+
+# Optional: future pagination settings (already there)
 plugins:
   - jekyll-paginate
-paginate: 10               # posts per page
+paginate: 10
 paginate_path: "/news/page:num/"

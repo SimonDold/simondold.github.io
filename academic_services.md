@@ -10,10 +10,8 @@ title: Academic Services
 {% assign services = site.posts | where: "type", "service" | sort: "date" | reverse %}
 
 {% for post in services %}
-### [{{ post.title }}]({{ post.url }})
-<small>{{ post.date | date: "%B %d, %Y" }}</small>
 
-{{ post.excerpt | markdownify | truncatewords: 80 }}
+{{ post.content }}
 
 {% endfor %}
 

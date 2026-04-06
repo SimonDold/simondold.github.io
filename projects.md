@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Teaching
+title: Projects
 ---
 
 {% include menu.md %}
 
-# Teaching & Supervision
+# Projects
 
-{% assign teaching_items = site.posts | where: "type", "teaching" | sort: "date" | reverse %}
+{% assign papers = site.posts | where: "type", "project" | sort: "date" | reverse %}
 
-{% for post in teaching_items %}
+{% for post in service %}
 ### [{{ post.title }}]({{ post.url }})
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 

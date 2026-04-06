@@ -3,12 +3,7 @@ layout: default
 title: Simon Dold
 ---
 
-[Home](/) &nbsp; • &nbsp;
-[Publications](/publications) &nbsp; • &nbsp; 
-[Teaching](/teaching) &nbsp; • &nbsp; 
-[News](/news)
-
----
+{% include menu.md %}
 
 
 ![Profile Photo](/img/simondold.jpeg){: style="float: right; width: 180px; margin-left: 20px; border-radius: 50%;"}

@@ -3,12 +3,7 @@ layout: default
 title: Publications
 ---
 
-[Home](/) &nbsp; • &nbsp;
-[Publications](/publications) &nbsp; • &nbsp; 
-[Teaching](/teaching) &nbsp; • &nbsp; 
-[News](/news)
-
----
+{% include menu.md %}
 
 # Publications
 

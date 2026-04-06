@@ -4,12 +4,7 @@ title: News Archive
 permalink: /news/
 ---
 
-[Home](/) &nbsp; • &nbsp;
-[Publications](/publications) &nbsp; • &nbsp; 
-[Teaching](/teaching) &nbsp; • &nbsp; 
-[News](/news)
-
----
+{% include menu.md %}
 
 # All News
 

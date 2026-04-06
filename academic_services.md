@@ -7,9 +7,9 @@ title: Academic Services
 
 # Academic Services
 
-{% assign papers = site.posts | where: "type", "service" | sort: "date" | reverse %}
+{% assign services = site.posts | where: "type", "service" | sort: "date" | reverse %}
 
-{% for post in service %}
+{% for post in services %}
 ### [{{ post.title }}]({{ post.url }})
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 

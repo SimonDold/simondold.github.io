@@ -3,6 +3,13 @@ layout: default
 title: Publications
 ---
 
+[Home](/) &nbsp; • &nbsp;
+[Publications](/publications) &nbsp; • &nbsp; 
+[Teaching](/teaching) &nbsp; • &nbsp; 
+[News](/news)
+
+---
+
 # Publications
 
 {% assign papers = site.posts | where: "type", "paper" | sort: "date" | reverse %}

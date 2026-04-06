@@ -4,6 +4,13 @@ title: News Archive
 permalink: /news/
 ---
 
+[Home](/) &nbsp; • &nbsp;
+[Publications](/publications) &nbsp; • &nbsp; 
+[Teaching](/teaching) &nbsp; • &nbsp; 
+[News](/news)
+
+---
+
 # All News
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}

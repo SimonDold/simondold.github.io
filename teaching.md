@@ -3,6 +3,13 @@ layout: default
 title: Teaching
 ---
 
+[Home](/) &nbsp; • &nbsp;
+[Publications](/publications) &nbsp; • &nbsp; 
+[Teaching](/teaching) &nbsp; • &nbsp; 
+[News](/news)
+
+---
+
 # Teaching & Supervision
 
 {% assign teaching_items = site.posts | where: "type", "teaching" | sort: "date" | reverse %}

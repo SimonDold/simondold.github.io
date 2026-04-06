@@ -3,6 +3,7 @@ layout: default
 title: Simon Dold
 ---
 
+[Home](/) &nbsp; • &nbsp;
 [Publications](/publications) &nbsp; • &nbsp; 
 [Teaching](/teaching) &nbsp; • &nbsp; 
 [News](/news)

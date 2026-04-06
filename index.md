@@ -22,7 +22,7 @@ My research interests center on **potential heuristics** and **proof logging** i
 
 ## Contact  
 Email: simon.dold@unibas.ch  
-[Google Scholar](https://scholar.google.com/citations?user=...)  
+[Google Scholar](https://scholar.google.com/citations?user=-pfh78YAAAAJ&hl=de&oi=ao)
 [GitHub](https://github.com/simondold)
 
 

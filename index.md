@@ -20,11 +20,11 @@ I am a PhD student in the [Artificial Intelligence research group](https://ai.dm
 I completed my Master's in Computer Science here in 2021.
 My research interests center on **potential heuristics** and **proof logging** in automated planning.
 
+
 ## Contact  
 Email: simon.dold@unibas.ch  
-[Google Scholar](https://scholar.google.com/citations?user=-pfh78YAAAAJ&hl=de&oi=ao)
-[GitHub](https://github.com/simondold)
-
+[Google Scholar](https://scholar.google.com/citations?user=-pfh78YAAAAJ&hl=de&oi=ao)  
+[GitHub](https://github.com/simondold)  
 
 
 ## Latest News

@@ -3,20 +3,21 @@ layout: default
 title: Simon Dold
 ---
 
-![Profile Photo](/img/simondold.jpeg){: style="float: right; width: 180px; margin-left: 20px; border-radius: 50%;"}
-# Simon Dold
-**PhD Student**  
-Artificial Intelligence Group  
-University of Basel, Switzerland  
-Spiegelgasse 1, 4051 Basel, Switzerland  
----
-
-### Menu
 [Publications](/publications) &nbsp; • &nbsp; 
 [Teaching](/teaching) &nbsp; • &nbsp; 
 [News](/news)
 
 ---
+
+
+![Profile Photo](/img/simondold.jpeg){: style="float: right; width: 180px; margin-left: 20px; border-radius: 50%;"}
+# Simon Dold
+**PhD Student**  
+Artificial Intelligence Group  
+University of Basel, Switzerland  
+Spiegelgasse 5, 4051 Basel, Switzerland  
+---
+
 
 ## Short Bio
 I am a PhD student in the [Artificial Intelligence research group](https://ai.dmi.unibas.ch/) at the University of Basel, where I have been working since 2022 under the supervision of [Prof. Dr. Malte Helmert](https://dmi.unibas.ch/en/person/malte-helmert/).

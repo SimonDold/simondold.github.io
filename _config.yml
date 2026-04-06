@@ -1,17 +1,6 @@
 theme: jekyll-theme-cayman
-title: Simon Dold
-description: PhD Student in Artificial Intelligence – University of Basel
-
-# Navigation menu
-navbar:
-  - title: Home
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Teaching
-    url: /teaching/
-  - title: News
-    url: /news/
+title: 
+description: Simon Dold – PhD Student – University of Basel
 
 # Optional: future pagination settings (already there)
 plugins:

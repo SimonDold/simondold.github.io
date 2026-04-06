@@ -2,6 +2,7 @@
 layout: post
 title: "Completed Bachelor's Thesis: Graphenbasierte Molekülrepräsentation im Quantum Machine Learning (Graph-based Molecule Representation in Quantum Machine Learning)"
 date: 2019-01-30
+type: paper
 categories: news
 ---
 

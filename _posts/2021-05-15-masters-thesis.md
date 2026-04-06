@@ -2,6 +2,7 @@
 layout: post
 title: "Completed Master's Thesis: Correlation Complexity and Different Notions of Width"
 date: 2021-05-01
+type: paper
 categories: news
 ---
 

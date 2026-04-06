@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simon Dold
+title:
 ---
 
 {% include menu.md %}

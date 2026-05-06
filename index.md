@@ -16,7 +16,7 @@ Spiegelgasse 5, 4051 Basel, Switzerland
 
 
 ## Short Bio
-I am a PhD student in the [Artificial Intelligence research group](https://ai.dmi.unibas.ch/) at the University of Basel, where I have been working since 2022 under the supervision of [Prof. Dr. Malte Helmert](https://dmi.unibas.ch/en/person/malte-helmert/).
+I am a PhD student in the [Artificial Intelligence research group](https://ai.dmi.unibas.ch/) at the University of Basel, where I have been working since 2022 under the supervision of [Prof. Dr. Malte Helmert](https://dmi.unibas.ch/en/persons/malte-helmert/).
 I completed my Master's in Computer Science here in 2021.
 My research interests center on **potential heuristics** and **proof logging** in automated planning.
 

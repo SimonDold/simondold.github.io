@@ -1,4 +1,4 @@
----
+---https://orcid.org/0009-0003-6265-9484
 layout: default
 title:
 ---
@@ -23,8 +23,12 @@ My research interests center on **potential heuristics** and **proof logging** i
 
 ## Contact  
 Email: simon.dold@unibas.ch  
-[Google Scholar](https://scholar.google.com/citations?user=-pfh78YAAAAJ&hl=de&oi=ao)  
-[GitHub](https://github.com/simondold)  
+
+## Profiles  
+[Google Scholar](https://scholar.google.com/citations?user=-pfh78YAAAAJ&hl=de&oi=ao), 
+[GitHub](https://github.com/simondold), 
+[dblp](https://dblp.org/pid/326/2080-1.html)
+[ORCID](https://orcid.org/0009-0003-6265-9484)
 
 
 ## Latest News

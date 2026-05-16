@@ -13,6 +13,8 @@ title: Talks
 
 {{ post.content }}
 
+---
+
 {% endfor %}
 
 [← Back to Home](/)

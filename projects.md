@@ -13,6 +13,8 @@ title: Projects
 
 {{ post.content }}
 
+---
+
 {% endfor %}
 
 [← Back to Home](/)

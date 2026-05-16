@@ -13,6 +13,8 @@ title: Publications
 
 {{ post.content }}
 
+---
+
 {% endfor %}
 
 [← Back to Home](/)

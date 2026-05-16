@@ -7,7 +7,7 @@ title: Projects
 
 # Projects
 
-{% assign projects = site.posts | where: "type", "project" | sort: "date" | reverse %}
+{% assign projects = site.posts | where: "type", "project" | sort: "date" %}
 
 {% for post in projects %}
 
